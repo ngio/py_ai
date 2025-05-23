@@ -29,3 +29,12 @@ https://docs.streamlit.io/get-started/fundamentals/main-concepts
 
 ![image](https://github.com/user-attachments/assets/c9ba575b-2069-4eb6-ad20-92019984162b)
 
+
+* Ctrl + ` : VScode에서 터미널 오픈
+
+* 가상 환경 확인 (선택 사항):
+가상 환경이 제대로 활성화되었는지 확인하려면, 다음 명령어를 입력하여 현재 사용 중인 파이썬의 경로를 확인합니다.    
+
+        >
+        >where python
+        >
