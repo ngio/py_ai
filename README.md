@@ -23,6 +23,10 @@ https://wikidocs.net/book/14285
     프로그래밍 경험이 있으며, LLM API를 처음 배우려는 독자
     챗GPT API를 다루어 본 독자
 
+
+# Streamlit: 데이터 과학자의 쉬운 웹 제작 도구
+https://wikidocs.net/226653
+
 # steamlit
 * 문서 : https://docs.streamlit.io/get-started/fundamentals/main-concepts
 
