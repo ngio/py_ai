@@ -9,9 +9,14 @@ https://github.com/dabidstudio/python-ai-agents
 
 
 
-
 # steamlit
-https://docs.streamlit.io/get-started/fundamentals/main-concepts
+* 문서 : https://docs.streamlit.io/get-started/fundamentals/main-concepts
+
+Streamlit은 데이터 과학자와 머신러닝 엔지니어에게 매우 유용한 도구로, 복잡한 웹 프레임워크를 사용하지 않고도 강력한 웹 애플리케이션을 신속하게 개발할 수 있게 해줍니다.
+
+특히 Streamlit 에서 운영하는 Cloud에 Streamlit application이 들어있는 github 레포지터리를 등록하면, 무료로 streamlit을 운영할 수 있는 점도 매우 큰 장점입니다.2 이 서비스를 이용하여 https://{my app name}.streamlit.app 주소로 나만의 Streamlit web app. 을 운영해 볼 수 있습니다.
+
+
 
 # 가상환경 생성
 
@@ -26,6 +31,8 @@ https://docs.streamlit.io/get-started/fundamentals/main-concepts
     conda create -n p_ai python=3.10
     conda activate p_ai
     conda install streamlit numpy pandas matplotlib
+
+# Streamlit 확장 도구
 
     pip install streamlit-extras
     pip install streamlit-option-menu
