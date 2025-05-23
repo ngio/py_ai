@@ -88,6 +88,12 @@ Streamlit은 Python으로 간편하게 웹 애플리케이션을 만들 수 있�
 
 * steamlit 실행시 URL :  http://localhost:8501/
 
+
+# 스트림릿(Streamlit)으로 챗봇 구현하기 
+
+https://wikidocs.net/230759
+
+
 ***
 
 ## 파이썬 분야별 추천 라이브러리
