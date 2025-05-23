@@ -49,5 +49,10 @@ https://docs.streamlit.io/get-started/fundamentals/main-concepts
     키보드의 Ctrl 키를 누른 상태에서 C 키를 한 번 누릅니다.
 
 
+# http://localhost:8501/
+
+
+
+
 
 
