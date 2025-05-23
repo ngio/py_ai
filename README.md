@@ -79,6 +79,48 @@ Streamlit은 Python으로 간편하게 웹 애플리케이션을 만들 수 있�
 
 * Ctrl + ` : VScode에서 터미널 오픈
   
+
+# Steamlit 실행하기 
+
+터미널에서  
+
+    steamlit hello
+    # 또는 
+    streamlit run app.py
+
+# VSCODE에서 streamlit 디버깅하기 
+
+    .vscode 폴더를 만들고 그 하위에  launch.json 생성. 있으면 수정. 
+
+    실행되는 python.exe 경로를 해당 가상환경에 맞추어야 한다. 
+
+![image](https://github.com/user-attachments/assets/d375be68-8c76-4f5c-9fc5-500c7911263b)
+
+    
+
+    // conda env list
+    {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "streamlit debug (p_ai env)",
+                "type": "python",
+                "request": "launch",
+                "module": "streamlit",
+                "args": ["run", "${file}"],
+                "justMyCode": true,
+                "python": "C:\\ProgramData\\anaconda3\\envs\\p_ai\\python.exe" // <--- 이 줄을 추가합니다. 
+            }
+        ]
+    }
+    
+![image](https://github.com/user-attachments/assets/5e9a1084-3809-4dad-8b6a-b7cd133e5b91)
+
+* VSCODE 내의 터미널 화면
+![image](https://github.com/user-attachments/assets/f7334a30-4879-4da3-ad5e-e4172b9068b2)
+
+
+
 #  Streamlit 앱을 종료하는 방법
     1. Ctrl + C 를 이용한 종료 (가장 일반적이고 권장되는 방법)
     대부분의 Streamlit 앱은 명령 프롬프트(CMD) 또는 PowerShell에서 streamlit run your_app.py 명령어를 사용하여 실행합니다. 
