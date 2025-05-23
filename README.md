@@ -27,6 +27,14 @@ https://docs.streamlit.io/get-started/fundamentals/main-concepts
     conda activate p_ai
     conda install streamlit numpy pandas matplotlib
 
+    pip install streamlit-extras
+    pip install streamlit-option-menu
+    pip install streamlit-aggrid
+    pip install streamlit-pandas-profiling
+    pip install streamlit-ace
+    pip install streamlit-echarts
+
+
 ![image](https://github.com/user-attachments/assets/c9ba575b-2069-4eb6-ad20-92019984162b)
 
 
@@ -49,7 +57,7 @@ https://docs.streamlit.io/get-started/fundamentals/main-concepts
     키보드의 Ctrl 키를 누른 상태에서 C 키를 한 번 누릅니다.
 
 
-# http://localhost:8501/
+# steamlit 실행시 URL :  http://localhost:8501/
 
 
 
