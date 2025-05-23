@@ -40,10 +40,14 @@ https://docs.streamlit.io/get-started/fundamentals/main-concepts
         >
 
 #  Streamlit 앱을 종료하는 방법
-1. Ctrl + C 를 이용한 종료 (가장 일반적이고 권장되는 방법)
-대부분의 Streamlit 앱은 명령 프롬프트(CMD) 또는 PowerShell에서 streamlit run your_app.py 명령어를 사용하여 실행합니다. 이 경우 앱을 종료하는 가장 일반적이고 권장되는 방법은 다음과 같습니다.
+    1. Ctrl + C 를 이용한 종료 (가장 일반적이고 권장되는 방법)
+    대부분의 Streamlit 앱은 명령 프롬프트(CMD) 또는 PowerShell에서 streamlit run your_app.py 명령어를 사용하여 실행합니다. 이 경우 앱을 종료하는 가장 일반적이고 권장되는 방법은 다음과 같습니다.
+    
+    Streamlit 앱을 실행했던 명령 프롬프트 또는 PowerShell 창으로 돌아갑니다.
+    앱을 실행할 때 사용했던 검은색 또는 파란색 터미널 창을 찾으세요.
+    Ctrl + C 키를 동시에 누릅니다.
+    키보드의 Ctrl 키를 누른 상태에서 C 키를 한 번 누릅니다.
 
-Streamlit 앱을 실행했던 명령 프롬프트 또는 PowerShell 창으로 돌아갑니다.
-앱을 실행할 때 사용했던 검은색 또는 파란색 터미널 창을 찾으세요.
-Ctrl + C 키를 동시에 누릅니다.
-키보드의 Ctrl 키를 누른 상태에서 C 키를 한 번 누릅니다.
+
+
+
