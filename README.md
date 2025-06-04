@@ -24,6 +24,9 @@ https://wikidocs.net/book/14285
     챗GPT API를 다루어 본 독자
 
 
+# [python] zimport - 수많은 python 패키지를 압축하여 관리 (github.com/waveware4ai)
+
+
 # Streamlit: 데이터 과학자의 쉬운 웹 제작 도구
 https://wikidocs.net/226653
 
