@@ -27,6 +27,11 @@ https://wikidocs.net/book/14285
 # [python] zimport - 수많은 python 패키지를 압축하여 관리 (github.com/waveware4ai)
 https://github.com/waveware4ai
 
+# psutil 
+![image](https://github.com/user-attachments/assets/b001dff6-2c17-4677-ae30-a497a0718027)
+
+
+
 # Streamlit: 데이터 과학자의 쉬운 웹 제작 도구
 https://wikidocs.net/226653
 
