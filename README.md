@@ -7,6 +7,14 @@
 # 파이썬으로 AI 에이전트 만들기 
 https://github.com/dabidstudio/python-ai-agents
 
+
+# Gemini CLI
+https://github.com/google-gemini/gemini-cli
+
+https://aistudio.google.com/apikey
+
+
+
 # 함께해요 파이썬 생태계
 https://wikidocs.net/book/14021
 ![image](https://github.com/user-attachments/assets/61963c80-6de2-4d9e-ac19-fab9761b3158)
@@ -29,10 +37,6 @@ https://github.com/waveware4ai
 
 # psutil 
 ![image](https://github.com/user-attachments/assets/b001dff6-2c17-4677-ae30-a497a0718027)
-
-
-# Gemini CLI
-https://github.com/google-gemini/gemini-cli
 
 
 
