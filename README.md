@@ -13,6 +13,8 @@ https://github.com/google-gemini/gemini-cli
 
 https://aistudio.google.com/apikey
 
+[시작하기](https://ai.google.dev/gemini-api/docs?hl=ko)
+
 - fastAPI 사요. SQLlite 연동
 - 프롬프트 캐싱
 - 커서, 바이브코딩
