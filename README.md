@@ -21,6 +21,8 @@ https://aistudio.google.com/apikey
 - gemini 는 이미지를 base64로 업로드
 
 
+# [AI] 커서(Cursor)와 바이브코딩(Vibe Coding) 
+[ [AI] 커서(Cursor)와 바이브코딩(Vibe Coding) ](./README_cursor_vibecoding.md)
 
 # 함께해요 파이썬 생태계
 https://wikidocs.net/book/14021
