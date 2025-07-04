@@ -13,6 +13,11 @@ https://github.com/google-gemini/gemini-cli
 
 https://aistudio.google.com/apikey
 
+- fastAPI 사요. SQLlite 연동
+- 프롬프트 캐싱
+- 커서, 바이브코딩
+- gemini 는 이미지를 base64로 업로드
+
 
 
 # 함께해요 파이썬 생태계
